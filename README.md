@@ -36,3 +36,8 @@ Apart from raising our own awareness about the growing number of people experien
 
 ## What's next for ASL Ninja
 We plan to extend our gesture recognition modules from 26 alphabets to more commonly used words and phrases. We also plan to add more engaging features to the game to enable multiplayer matchmaking and a competitive gameplay.
+
+## Developers
+- [Shi Tingxiao](https://github.com/tingxiao88)
+- [Liaw Choon Wei](https://github.com/choonwei0214)
+- [Kritchanat Ponyuenyong](https://github.com/kritp03)
