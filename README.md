@@ -1,7 +1,7 @@
 # ASL Ninja
 ![ASL Ninja](./public/logo.gif)
 
-Check out the project on [Devpost]()
+Check out the project on [Devpost](https://devpost.com/software/asl-ninja)
 
 [Try it out!](https://aslninja.gradientascent.net/)
 
